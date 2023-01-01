@@ -10,10 +10,11 @@ new items and the removal of existing items always takes place at the same end.
 This end is commonly referred to as the “top.” 
 The end opposite the top is known as the “base.”
 
-### Use Cases
+### Use Case
 Every web browser has a Back button. 
 As you navigate from web page to web page,
-those pages are placed on a stack (actually it is the URLs that are going on the stack)
+those pages are placed on a stack (actually it is the URLs that are going on the stack).
+
 
 
 ### Operations
