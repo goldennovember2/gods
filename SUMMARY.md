@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Introduction](README.md)
+* [🌈 Portfolio](README.md)
 
 ## Data Structures
 
